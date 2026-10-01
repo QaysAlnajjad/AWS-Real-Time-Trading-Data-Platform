@@ -12,7 +12,7 @@ The project demonstrates event-driven processing, serverless analytics, secure n
 - [Cross-Stack Dependency Map](#cross-stack-dependency-map)
 - [Prerequisites (Applies to Both Local & CI/CD)](#prerequisites-applies-to-both-local--cicd)
 - [Deployment Options](#deployment-options)
-- [Deployment Options](#data-flow)
+- [Data_Flow](#data-flow)
 - [Demo Videos](#demo-videos)
 - [Trading Logic Overview](#trading-logic-overview)
 - [Security Highlights](#security-highlights)
