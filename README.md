@@ -172,7 +172,7 @@ Key Characteristics
 
 No fork is required:
 ```bash
-git clone https://github.com/QaysAlnajjad/aws-realtime-trading-pipeline.git
+git clone https://github.com/QaysAlnajjad/AWS-Real-Time-Trading-Data-Platform.git
 cd aws-realtime-trading-pipeline
 ```
 
