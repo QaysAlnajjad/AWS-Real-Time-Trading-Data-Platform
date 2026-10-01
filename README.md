@@ -173,7 +173,7 @@ Key Characteristics
 No fork is required:
 ```bash
 git clone https://github.com/QaysAlnajjad/AWS-Real-Time-Trading-Data-Platform.git
-cd aws-realtime-trading-pipeline
+cd AWS-Real-Time-Trading-Data-Platform
 ```
 
 🟦 2. Deploy the Bootstrap Stack (ONE TIME ONLY)
